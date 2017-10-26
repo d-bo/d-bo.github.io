@@ -1,0 +1,123 @@
+{
+    "headers" : {
+        "interests": "Interests",
+        "skills": "Skills",
+        "education": "Education",
+        "experience": "Work experience",
+        "links": "Links",
+        "projects": "Projects"
+    },
+    "language": "Language",
+    "email": "abelt@e1.ru",
+    "phone": "+7 952 13 999 62",
+    "person": "Bolkhovitinov O. Dmitry",
+    "year": "2015",
+    "interests": [
+        "Web-standarts",
+        "Data transmission protocols",
+        "Constructing GUIs",
+        "Interaction with mobile devices",
+        "Test Driven Development",
+        "Penetration testing",
+        "Front-end development"
+    ],
+    "desc_php": "Development experience Codeigniter, Symfony2, ZendFramework2",
+    "desc_python": "Development experience Django, Flask",
+    "desc_js": "jquery, angular, require, browserify, gulp, bower, npm",
+    "desc_nix": "Debian(+Docker), FreeBSD. Hosted at Heroku, Hetzner, Pythonanywhere",
+    "desc_vcs": "git, svn, mercurial",
+    "desc_sql": "MySQL, PostgreSQL, noSQL(Redis)",
+    "education": [
+        {
+            "name": "Ural State University of Railway Transport",
+            "specialty": "Railway Engineer",
+            "location": "Yekaterinburg, Russia",
+            "range": [2000, 2005]
+        },
+        {
+            "name": "On the basis of high school №104",
+            "specialty": "Software engineer category 3",
+            "location": "Yekaterinburg, Russia",
+            "range": [1998, 1999]
+        }
+    ],
+    "jobs": [
+        {
+            "name": "Advertising and news agency \"FederalPress\"",
+            "sites": [
+                "http://fedpress.ru",
+                "http://uralpolit.ru"
+            ],
+            "job_title": "Software engineer",
+            "range": ["01.06.2009", "10.10.2009"],
+            "duties": [
+                "Database maintenance of a heavy-loaded news Site",
+                "Module development",
+                "Export data to search engines",
+                "High attendance of the resource"
+            ]
+        },
+        {
+            "name": "Sitis, ltd.",
+            "sites": [
+                "http://sitis.ru"
+            ],
+            "job_title": "Software engineer",
+            "range": ["24.05.2010", "august 2013"],
+            "duties": [
+                "Domestic online resources, forum, store, CRM",
+                "Module development on the basis of phpBB engine",
+                "Development of geo-service for a bunch of mobile devices"
+            ]
+        },
+        {
+            "name": "Financial Logisticsю, ltd.",
+            "sites": [
+                "http://frisbee-pay.ru/"
+            ],
+            "job_title": "Software engineer",
+            "range": ["september 2013", "march 2014"],
+            "duties": [
+                "Payments on-line service support",
+                "Banking API module interaction development",
+                "Chain with MSSQL server"
+            ]
+        },
+        {
+            "name": "Sputnik Engineering, ltd.",
+            "sites": [
+                "http://gdemoi.ru"
+            ],
+            "job_title": "Software engineer",
+            "range": ["march 2014", "may 2014"],
+            "duties": [
+                "CRM upgrades",
+                "Front-end geo-location service"
+            ]
+        },
+        {
+            "name": "Nord, ltd.",
+            "sites": [
+                "http://logo.ru",
+                "http://nord24.ru"
+            ],
+            "job_title": "Software engineer",
+            "range": ["july 2014", "march 2015"],
+            "duties": [
+                "CRM on-line trading",
+                "1C import data modules"
+            ]
+        },
+        {
+            "name": "Public Joint Stock Company «The Ural Bank for Reconstruction and Development»",
+            "sites": [
+                "http://www.ubrr.ru"
+            ],
+            "job_title": "Senior developer",
+            "range": ["september 2015", "present time"],
+            "duties": [
+                "Maintenance and development of internal / external web resources (yii, yii2, zend2, ruby on rails, mysql ...)"
+            ]
+        }
+    ]
+}

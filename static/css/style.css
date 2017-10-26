@@ -1,0 +1,155 @@
+
+/* override bootstrap */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 19px;
+  line-height: 26px;
+  color: #1f3244;
+}
+
+h1 {
+  line-height: 35px;
+  font-weight: normal;
+  letter-spacing: -2px;
+}
+
+h2, h3 {
+  letter-spacing: -1px;
+  font-weight: normal;
+  line-height: 30px;
+}
+
+h2 {
+  color: #54707D;
+  font-size: 30px;
+}
+
+h3 {
+  color: #111;
+}
+
+h1 {
+  color: #204B60;
+  text-shadow: 1px 1px 9px rgba(255, 255, 255, 1);
+  font-size: 40px;
+}
+
+.row {
+  padding: 15px 0;
+}
+
+.progress {
+  margin-bottom: 5px;
+}
+
+hr {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  border-top: 1px solid #ececec;
+  border-bottom: 1px solid #fff;
+  margin-top: 10px 0;
+}
+
+dt {
+  color: #222;
+  margin-bottom: 7px;
+}
+
+li {
+  line-height: 25px;
+}
+
+.mb20 {
+   margin-bottom: 27px;
+
+}
+
+.job-period {
+  text-align: right;
+  padding-bottom: 7px;
+  font-style: italic;
+}
+
+.aright {
+  text-align: center;
+}
+
+.shadow1 {
+  -webkit-box-shadow: 0px 0px 10px 5px rgba(209,209,209,1);
+  -moz-box-shadow: 0px 0px 10px 5px rgba(209,209,209,1);
+  box-shadow: 0px 0px 10px 5px rgba(209,209,209,1);
+}
+
+.line {
+  height: 2px;
+  background: #3a87ad;
+}
+
+/* navbar */
+
+.navbar {
+  *position: relative;
+  *z-index: 2;
+  margin-bottom: 0px;
+  overflow: visible;
+}
+
+.navbar .brand {
+  color: #fff;
+}
+
+.navbar .nav > li > a {
+  color: #fff;
+  font-size: 16px;
+}
+
+.progress .bar {
+  background-color: #3A87AD;
+  background-image: -moz-linear-gradient(top, #3A87AD, #3A87AD);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#3A87AD), to(#3A87AD));
+  background-image: -webkit-linear-gradient(top, #3A87AD, #3A87AD);
+  background-image: -o-linear-gradient(top, #3A87AD, #3A87AD);
+  background-image: linear-gradient(to bottom, #3A87AD, #3A87AD);
+}
+
+.navbar .brand {
+  display: block;
+  float: left;
+  padding: 0 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  margin-left: -20px;
+  font-size: 20px;
+  font-weight: 200;
+  color: #777777;
+}
+
+.navbar .nav > li > a:focus,
+.navbar .nav > li > a:hover {
+  color: #222;
+  text-decoration: none;
+  background-color: #f3f3f3;
+  cursor: pointer;
+}
+
+.nav-custom {
+  background: #f3f3f3;
+}
+
+.navbar .nav > li > a {
+  color: #fff;
+  text-shadow: 0;
+}
+
+.navbar .nav-custom > li > a {
+  color: #222;
+}
+
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1280px;
+}

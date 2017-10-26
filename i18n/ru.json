@@ -1,0 +1,121 @@
+{
+    "headers" : {
+        "interests": "Интересы",
+        "skills": "Навыки",
+        "education": "Образование",
+        "experience": "Опыт",
+        "links": "Код",
+        "projects": "Проекты"
+    },
+    "language": "Язык",
+    "email": "abelt@e1.ru",
+    "phone": "+7 952 13 999 62",
+    "person": "Болховитинов Дмитрий Олегович",
+    "year": "2015",
+    "interests": [
+        "Веб стандарты",
+        "Протоколы передачи данных",
+        "Построение графических интерфейсов",
+        "Взаимодействие с мобильными устройствами",
+        "Разработка через тестирование",
+        "Тестирование на проникновение",
+        "Front-end разработка"
+    ],
+    "desc_php": "Codeigniter, Symfony2, ZF2, Yii2, composer, HHVM",
+    "desc_python": "Django, Flask",
+    "desc_js": "CommonJS/AMD/UMD, nodejs(express), jquery, angular1, requirejs, browserify, gulp, bower, webpack, extjs4",
+    "desc_nix": "Debian/FreeBSD, Docker. Хостинги Heroku, Hetzner, Pythonanywhere, DigitalOcean, Netangels",
+    "desc_vcs": "git, svn, mercurial",
+    "desc_sql": "MySQL, PostgreSQL, Redis, memcached",
+    "education": [
+        {
+            "name": "Уральский Государственный Университет Путей Сообщения",
+            "specialty": "Инженер путей сообщения",
+            "location": "Екатеринбург, Россия",
+            "range": [2000, 2005]
+        },
+        {
+            "name": "На базе гимназии №104",
+            "specialty": "Инженер программист 3-й категории курсы информационно-технологической культуры",
+            "location": "Екатеринбург, Россия",
+            "range": [1998, 1999]
+        }
+    ],
+    "jobs": [
+        {
+            "name": "РИА «ФедералПресс»", 
+            "sites": [
+                "http://fedpress.ru",
+                "http://uralpolit.ru"
+            ],
+            "job_title": "Программист",
+            "range": ["01.06.2009", "10.10.2009"],
+            "duties": [
+                "Сопровождение MySQL высоконагруженного новостного интернет ресурса",
+                "Разработка модулей админки (drupal)",
+                "Экспорт данных в поисковые системы (Yandex, Google ...)"
+            ]
+        },
+        {
+            "name": "ООО «СИТИС»",
+            "sites": [
+                "http://sitis.ru"
+            ],
+            "job_title": "Программист",
+            "range": ["24.05.2010", "август 2013"],
+            "duties": [
+                "Внутренние интернет ресурсы, форум, магазин, CRM (на базе phpBB)",
+                "Разработка гео-сервиса для связки с мобильными устройствам (django)"
+            ]
+        },
+        {
+            "name": "ООО \"ЕРЦ - Финансовая логистика\"",
+            "sites": [
+                "http://frisbee-pay.ru/"
+            ],
+            "job_title": "Программист",
+            "range": ["сентябрь 2013", "март 2014"],
+            "duties": [
+                "Поддержка сервиса по приему платежей он-лайн (yii)",
+                "Разработка модуля взаимодействия с банковскими API (эквайринг Газпром)",
+                "Привязка к MSSQL server"
+            ]
+        },
+        {
+            "name": "ООО \"Спутник-Техника\"",
+            "sites": [
+                "http://my.gdemoi.ru/login/"
+            ],
+            "job_title": "Программист",
+            "range": ["март 2014", "май 2014"],
+            "duties": [
+                "Доработка CRM (Codeigniter)",
+                "Доработка фронт-енда сервиса геолокации (Extjs4)"
+            ]
+        },
+        {
+            "name": "ДБТ НОРД",
+            "sites": [
+                "http://nord24.ru",
+                "http://logo.ru"
+            ],
+            "job_title": "Программист",
+            "range": ["июль 2014", "март 2015"],
+            "duties": [
+                "Доработка модулей CRM интернет-магазина (смесь symfony/zend)",
+                "Импорт данных из 1С"
+            ]
+        },
+        {
+            "name": "ПАО КБ УБРиР",
+            "sites": [
+                "http://www.ubrr.ru"
+            ],
+            "job_title": "Ведущий программист",
+            "range": ["сентябрь 2015", "текущее время"],
+            "duties": [
+                "Сопровождение и разработка внутренних/внешних веб ресурсов (yii, yii2, zend2, ruby on rails, mysql ...)"
+            ]
+        }
+    ]
+}

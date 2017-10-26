@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en" ng-app="dApp">
+    <head lang="en">
+        <meta charset=utf-8 />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Резюме</title>
+
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+        <link href="bower_components/bootstrap2.3.2/bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="bower_components/bootstrap2.3.2/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+        <link href="static/css/style.css" rel="stylesheet">
+        
+        <style>
+            #bitbucket {
+                background: url(static/img/bitbucket.png) left center no-repeat;
+                padding-left: 40px;
+            }
+            #github {
+                background: url(static/img/github.png) left center no-repeat;
+                padding-left: 40px;
+            }
+            .custom-link {
+                background: url(static/img/link.ico) left center no-repeat;
+                padding-left: 40px;
+            }
+            .role {
+                background: url(static/img/user.png) left center no-repeat;
+                padding-left: 40px;
+            }
+            body {
+                background: #f3f3f3;
+            }
+        </style>
+    </head>
+    <body>
+        <div ng-view></div>
+
+          <script src="bower_components/angular/angular.js"></script>
+          <script src="bower_components/angular-route/angular-route.js"></script>
+          <script src="bower_components/jquery/jquery.min.js"></script>
+          <script src="bower_components/bootstrap2.3.2/js/bootstrap-button.js"></script>
+          <script src="bower_components/bootstrap2.3.2/js/bootstrap-dropdown.js"></script>
+          <script src="bower_components/bootstrap2.3.2/js/bootstrap-collapse.js"></script>
+          <script src="app/app.js"></script>
+          <script src="app/controllers/controllers.js"></script>
+
+    </body>
+</html>
