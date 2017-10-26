@@ -19,14 +19,15 @@
         "Interaction with mobile devices",
         "Test Driven Development",
         "Penetration testing",
-        "Front-end development"
+        "Front-end development",
+        "Blockchain"
     ],
-    "desc_php": "Development experience Codeigniter, Symfony2, ZendFramework2",
-    "desc_python": "Development experience Django, Flask",
-    "desc_js": "jquery, angular, require, browserify, gulp, bower, npm",
-    "desc_nix": "Debian(+Docker), FreeBSD. Hosted at Heroku, Hetzner, Pythonanywhere",
+    "desc_php": "Codeigniter, SF2, ZF2, Yii2, HHVM",
+    "desc_python": "Django, Flask",
+    "desc_js": "CommonJS/AMD/UMD, nodejs(express), jquery, angular1, requirejs, browserify, gulp, bower, webpack, babel, extjs4",
+    "desc_nix": "Debian/FreeBSD, Docker. Deploy at Heroku, Hetzner, Pythonanywhere, DigitalOcean, Netangels",
     "desc_vcs": "git, svn, mercurial",
-    "desc_sql": "MySQL, PostgreSQL, noSQL(Redis)",
+    "desc_sql": "MySQL, PostgreSQL, Redis, memcached",
     "education": [
         {
             "name": "Ural State University of Railway Transport",

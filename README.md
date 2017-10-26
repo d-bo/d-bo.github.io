@@ -17,6 +17,5 @@ gulp
 #### DEV
 ```bash
 No need to compile assets with gulp
-
 Run index-dev.html instead
 ```

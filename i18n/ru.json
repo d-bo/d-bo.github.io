@@ -19,11 +19,12 @@
         "Взаимодействие с мобильными устройствами",
         "Разработка через тестирование",
         "Тестирование на проникновение",
-        "Front-end разработка"
+        "Front-end разработка",
+        "Blockchain"
     ],
     "desc_php": "Codeigniter, Symfony2, ZF2, Yii2, composer, HHVM",
     "desc_python": "Django, Flask",
-    "desc_js": "CommonJS/AMD/UMD, nodejs(express), jquery, angular1, requirejs, browserify, gulp, bower, webpack, extjs4",
+    "desc_js": "CommonJS/AMD/UMD, nodejs(express), jquery, angular1, requirejs, browserify, gulp, bower, webpack, babel, extjs4",
     "desc_nix": "Debian/FreeBSD, Docker. Хостинги Heroku, Hetzner, Pythonanywhere, DigitalOcean, Netangels",
     "desc_vcs": "git, svn, mercurial",
     "desc_sql": "MySQL, PostgreSQL, Redis, memcached",
