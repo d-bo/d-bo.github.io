@@ -24,10 +24,10 @@
     ],
     "desc_php": "Codeigniter, SF2, ZF2, Yii2, HHVM",
     "desc_python": "Django, Flask",
-    "desc_js": "CommonJS/AMD/UMD, nodejs(express), jquery, angular1, requirejs, browserify, gulp, bower, webpack, babel, extjs4",
-    "desc_nix": "Debian/FreeBSD, Docker. Deploy at Heroku, Hetzner, Pythonanywhere, DigitalOcean, Netangels",
+    "desc_js": "CommonJS/AMD/UMD, ES6, Babel, RXJs, Angular1-2, nodejs(express), Webpack, Browserify, Gulp, Bower, extjs4",
+    "desc_nix": "Debian/FreeBSD/Ubuntu, Bash, Docker. Deploy at Heroku, Hetzner, Pythonanywhere, DigitalOcean, Netangels",
     "desc_vcs": "git, svn, mercurial",
-    "desc_sql": "MySQL, PostgreSQL, Redis, memcached",
+    "desc_sql": "MySQL, PostgreSQL, Redis, memcached, MongoDB",
     "education": [
         {
             "name": "Ural State University of Railway Transport",
@@ -115,9 +115,20 @@
                 "http://www.ubrr.ru"
             ],
             "job_title": "Senior developer",
-            "range": ["september 2015", "present time"],
+            "range": ["september 2015", "april 2017"],
             "duties": [
                 "Maintenance and development of internal / external web resources (yii, yii2, zend2, ruby on rails, mysql ...)"
+            ]
+        },
+        {
+            "name": "RK Company, ltd.",
+            "sites": [
+                "http://goldapple.ru"
+            ],
+            "job_title": "Web developer",
+            "range": ["april 2017", "present time"],
+            "duties": [
+                "Development of internal web resource (go, python, angular2, mongo)"
             ]
         }
     ]
