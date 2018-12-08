@@ -26,7 +26,7 @@ gulp.task('minify-js', function() {
       'app/controllers/controllers.js'
     ])
     .pipe(concat('all.js'))
-    .pipe(uglify({"mangle": false}))
+    //.pipe(uglify({"mangle": false}))
     .pipe(gulp.dest(DEST));
 });
 

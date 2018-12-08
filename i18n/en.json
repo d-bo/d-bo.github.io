@@ -9,9 +9,9 @@
     },
     "language": "Language",
     "email": "vathsven@protonmail.com",
-    "phone": "+7 952 13 999 62",
+    "phone": "telegram: @dbopc",
     "person": "Bolkhovitinov O. Dmitry",
-    "year": "2015",
+    "year": "2018",
     "interests": [
         "Web-standarts",
         "Data transmission protocols",
@@ -24,8 +24,8 @@
     ],
     "desc_php": "Codeigniter, SF2, ZF2, Yii2, HHVM",
     "desc_python": "Django, Flask",
-    "desc_js": "CommonJS/AMD/UMD, ES6, Babel, RXJs, Angular1-2, nodejs(express), Webpack, Browserify, Gulp, Bower, extjs4",
-    "desc_nix": "Debian/FreeBSD/Ubuntu, Bash, Docker. Deploy at Heroku, Hetzner, Pythonanywhere, DigitalOcean, Netangels",
+    "desc_js": "Angular6, React, Babel, RXJs, Webpack, Gulp, extjs4",
+    "desc_nix": "Docker, bash, deploy: IBM Bluemix, Heroku, Redhat Openshift",
     "desc_vcs": "git, svn, mercurial",
     "desc_sql": "MySQL, PostgreSQL, Redis, memcached, MongoDB",
     "education": [
@@ -72,7 +72,7 @@
             ]
         },
         {
-            "name": "Financial Logisticsю, ltd.",
+            "name": "Financial Logistics, ltd.",
             "sites": [
                 "http://frisbee-pay.ru/"
             ],
