@@ -24,7 +24,7 @@
     ],
     "desc_php": "Codeigniter, SF2, ZF2, Yii2, HHVM",
     "desc_python": "Django, Flask",
-    "desc_js": "Electron, Angular6, React, Mocha, Babel, RXJs, Webpack, Gulp, extjs4",
+    "desc_js": "Electron, Angular6, Mocha, Babel, RXJs, Webpack, Gulp, extjs4",
     "desc_nix": "Docker, bash, deploy: IBM Bluemix, Heroku, Redhat Openshift",
     "desc_vcs": "git, svn, mercurial",
     "desc_sql": "MySQL, PostgreSQL, Redis, memcached, MongoDB",
