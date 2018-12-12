@@ -8,7 +8,7 @@
         "projects": "Проекты"
     },
     "language": "Язык",
-    "email": "vathsven@protonmail.com",
+    "email": "vathsven@pm.me",
     "phone": "telegram: @dbopc",
     "person": "Болховитинов Дмитрий Олегович",
     "year": "2018",
@@ -20,12 +20,13 @@
         "Разработка через тестирование",
         "Тестирование на проникновение",
         "Front-end разработка",
-        "Blockchain"
+        "Blockchain",
+        "DevOPS"
     ],
     "desc_php": "Codeigniter, SF2, ZF2, Yii2, HHVM",
     "desc_python": "Django, Flask",
     "desc_js": "Electron, Angular6, Mocha, Babel, RXJs, Webpack, Gulp, extjs4",
-    "desc_nix": "Docker, bash, deploy: IBM Bluemix, Heroku, Redhat Openshift",
+    "desc_nix": "Docker, Jenkins, Gitlab, bash, deploy: IBM Bluemix, Heroku, Redhat Openshift",
     "desc_vcs": "git, svn, mercurial",
     "desc_sql": "MySQL, PostgreSQL, Redis, memcached, MongoDB",
     "education": [
