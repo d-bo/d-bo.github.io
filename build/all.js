@@ -27905,7 +27905,7 @@ dApp.config(['$routeProvider',
     function($routeProvider) {
         $routeProvider.
         when('/', {
-            templateUrl: 'app/templates/resume.html',
+            templateUrl: 'app/templates/resume.html?_cache='+new Date(),
             controller: 'homeController'
         }).
         otherwise({
@@ -27924,7 +27924,7 @@ dApp.config(['$routeProvider',
 var dControllers = angular.module('dControllers', [])
 .factory('i18n', function($http) {
     return function(lang) {
-        return $http.get("i18n/"+lang+".json");
+        return $http.get("i18n/"+lang+".json?_cache="+new Date());
     };
 })
 .controller('homeController', ['$scope', '$http', 'i18n',

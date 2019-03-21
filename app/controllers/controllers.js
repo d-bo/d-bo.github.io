@@ -9,7 +9,7 @@
 var dControllers = angular.module('dControllers', [])
 .factory('i18n', function($http) {
     return function(lang) {
-        return $http.get("i18n/"+lang+".json");
+        return $http.get("i18n/"+lang+".json?_cache="+new Date());
     };
 })
 .controller('homeController', ['$scope', '$http', 'i18n',

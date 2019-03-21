@@ -25,7 +25,7 @@
     ],
     "desc_php": "Codeigniter, SF2, ZF2, Yii2, HHVM",
     "desc_python": "Django, Flask",
-    "desc_js": "Electron, Angular6, Mocha, Babel, RXJs, Webpack, Gulp, extjs4",
+    "desc_js": "Electron, Angular1,5-6, Mocha, Babel, RXJs, Webpack, Gulp",
     "desc_nix": "Docker, Jenkins, Gitlab, bash, deploy: IBM Bluemix, Heroku, Redhat Openshift",
     "desc_vcs": "git, svn, mercurial",
     "desc_sql": "MySQL, PostgreSQL, Redis, memcached, MongoDB",
@@ -125,9 +125,9 @@
                 "http://goldapple.ru"
             ],
             "job_title": "Web-программист",
-            "range": ["апрель 2017", "текущее время"],
+            "range": ["апрель 2017", "август 2018"],
             "duties": [
-                "Разработка внутреннего веб ресурса (go, python, angular2, mongo)"
+                "Разработка внутреннего веб ресурса (go, python, angular5-6, mongo, redis)"
             ]
         }
     ]
