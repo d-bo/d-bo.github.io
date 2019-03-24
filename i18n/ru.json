@@ -24,7 +24,7 @@
         "DevOPS"
     ],
     "desc_php": "Codeigniter, SF2, ZF2, Yii2, HHVM",
-    "desc_python": "Django, Flask",
+    "desc_python": "Django, Flask, aiohttp",
     "desc_js": "Electron, Angular1,5-6, Mocha, Babel, RXJs, Webpack, Gulp",
     "desc_nix": "Docker, Jenkins, Gitlab, bash, deploy: IBM Bluemix, Heroku, Redhat Openshift",
     "desc_vcs": "git, svn, mercurial",
