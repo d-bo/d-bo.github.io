@@ -131,6 +131,14 @@
             "duties": [
                 "Development of internal web resource (go, python, angular5-6, mongo, redis)"
             ]
+        },
+        {
+            "name": "Remote work",
+            "job_title": "Fulls-stack web developer",
+            "range": ["august 2018", "current time"],
+            "duties": [
+                "Web project assistance (python, react, mongodb, mysql, nodejs)"
+            ]
         }
     ]
 }

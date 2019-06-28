@@ -129,6 +129,14 @@
             "duties": [
                 "Разработка внутреннего веб ресурса (go, python, angular5-6, mongo, redis)"
             ]
+        },
+        {
+            "name": "Удаленная работа",
+            "job_title": "Fulls-stack web разработчик",
+            "range": ["август 2018", "текущее время"],
+            "duties": [
+                "Разработка web приложении (python, react, mongodb, mysql, nodejs)"
+            ]
         }
     ]
 }
