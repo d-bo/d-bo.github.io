@@ -23,10 +23,9 @@
         "Blockchain",
         "DevOPS"
     ],
-    "desc_php": "Codeigniter, SF2, ZF2, Yii2, HHVM",
     "desc_python": "Django, Flask, aiohttp",
     "desc_js": "Angular, React, Electron, Mocha, Babel, RXJs, Webpack, Gulp",
-    "desc_nix": "Docker, Jenkins, Gitlab, bash, deploy: IBM Bluemix, Heroku, Redhat Openshift",
+    "desc_nix": "Docker, Jenkins, Gitlab, bash, deploy: IBM Bluemix, Heroku, Redhat Openshift, Google Firebase",
     "desc_vcs": "git, svn, mercurial",
     "desc_sql": "MySQL, PostgreSQL, Redis, memcached, MongoDB",
     "education": [
