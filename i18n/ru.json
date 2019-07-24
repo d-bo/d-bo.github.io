@@ -11,7 +11,7 @@
     "email": "vathsven@pm.me",
     "phone": "telegram: @dbopc",
     "person": "Болховитинов Дмитрий Олегович",
-    "year": "2018",
+    "year": "2019",
     "interests": [
         "Веб стандарты",
         "Протоколы передачи данных",
@@ -24,7 +24,7 @@
         "DevOPS"
     ],
     "desc_python": "Django, Flask, aiohttp",
-    "desc_js": "Angular, React, Electron, Mocha, Babel, RXJs, Webpack, Gulp",
+    "desc_js": "React/Redux, Cordova/Electron, Angular, Mocha, Babel, RXJs, Webpack, Gulp",
     "desc_nix": "Docker, Jenkins, Gitlab, bash, deploy: IBM Bluemix, Heroku, Redhat Openshift, Google Firebase",
     "desc_vcs": "git, svn, mercurial",
     "desc_sql": "MySQL, PostgreSQL, Redis, memcached, MongoDB",
