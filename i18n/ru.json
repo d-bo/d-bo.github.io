@@ -9,7 +9,7 @@
     },
     "language": "Язык",
     "email": "vathsven@pm.me",
-    "phone": "telegram: @dbopc",
+    "phone": "tg: @dbopc",
     "person": "Болховитинов Дмитрий Олегович",
     "year": "2019",
     "interests": [
@@ -24,9 +24,9 @@
         "DevOPS"
     ],
     "desc_python": "Django, Flask, aiohttp",
-    "desc_js": "React/Redux, Cordova/Electron, Angular, Mocha, Babel, RXJs, Webpack, Gulp",
+    "desc_js": "React/Redux/Typescript, Cordova/Electron/Angular, Webpack, Gulp, Mocha, Jest/Enzyme, Nodejs",
     "desc_nix": "Docker, Jenkins, Gitlab, bash, deploy: IBM Bluemix, Heroku, Redhat Openshift, Google Firebase",
-    "desc_vcs": "git, svn, mercurial",
+    "desc_vcs": "git-flow, mercurial",
     "desc_sql": "MySQL, PostgreSQL, Redis, memcached, MongoDB",
     "education": [
         {
@@ -134,7 +134,7 @@
             "job_title": "Fulls-stack web разработчик",
             "range": ["август 2018", "текущее время"],
             "duties": [
-                "Разработка web приложении (python, react, mongodb, mysql, nodejs)"
+                "Разработка web приложении (python, react, mongodb, mysql, nodejs, docker)"
             ]
         }
     ]

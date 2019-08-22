@@ -153,3 +153,9 @@ li {
   margin-left: auto;
   max-width: 1280px;
 }
+
+.round50percent {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
