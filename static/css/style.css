@@ -159,3 +159,9 @@ li {
   -moz-border-radius: 5px;
   border-radius: 5px;
 }
+
+@media print {
+  .navbar-print {
+    display: none !important;
+  }
+}
